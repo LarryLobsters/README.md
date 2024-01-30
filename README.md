@@ -1,14 +1,14 @@
 # Hey 👋
 
-<a href="https://it.linkedin.com/in/daniele-luisetto-680054253" title="Linkedin Profile">
+<a href="https://it.linkedin.com/in/larry-l" title="Linkedin Profile">
   <img src="https://img.shields.io/badge/Linkedin-Daniele%20Luisetto-blue?logo=linkedin&logoColor=white" alt="Linkedin Shield"/>
 </a>
 
 
-Hi, it's Daniele here. I'm a student with a big passion for everything related to software and programming, especially the Web.
+Hey, Larry here and I love all things code, I only wished there were more hours in a day to learn it all. 
 
 <div align="center">
-  <img align="top" src="https://github-readme-stats-dan5py.vercel.app/api?username=dan5py&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="User Stats"/>
+  <img align="top" src="https://github-readme-stats-larbeartow.vercel.app/api?username=larBeartow&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="User Stats"/>
   <img align="top" src="https://github-readme-stats-dan5py.vercel.app/api/top-langs/?username=dan5py&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="Languages Stats"/>
 </div>
 
@@ -25,7 +25,7 @@ Hi, it's Daniele here. I'm a student with a big passion for everything related t
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/>
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" title="TailwindCSS"/>
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/>
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java"/>
+  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Js" title="Javascript"/>
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/>
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/>          
 </div>
